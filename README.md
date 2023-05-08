@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulkadir44
+- 👋 Hi, I’m @abdulkadir
 - 👀 I’m interested in web development.
 - 🌱 I currently hold a bachelor degree in computer application/
 - 💞️ I’m looking to collaborate on web development professionals
